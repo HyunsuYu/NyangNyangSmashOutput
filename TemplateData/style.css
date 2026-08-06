@@ -33,4 +33,8 @@ body {
 }
 
 /* 하단의 전체화면 버튼이나 푸터 영역을 숨기고 싶다면 추가 */
+<<<<<<< HEAD
 #unity-footer { display: none; }
+=======
+#unity-footer { display: none; }
+>>>>>>> 7d55d80824bea74eba8e0735ce170ea84ffa18e3
